@@ -45,6 +45,9 @@ Generate *common qr-code*,  *artistic qr-code (black & white or colorized)*,  *a
 ```python
 # via pip
 pip install amzqr
+
+# via pix
+pipx install amzqr
 ```
 
 ## Usage
